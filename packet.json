@@ -1,0 +1,10 @@
+{
+  "name": "packet-5",
+  "version": "1.13",
+  "targets": [
+    "./archive_this1/*.txt",
+    {"path":"./archive_this2/*", "exclude": "*.tmp"}
+  ],
+
+  "packets": {"name": "packet-2", "version":">=1.12"}
+}

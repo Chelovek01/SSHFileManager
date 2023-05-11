@@ -1,0 +1,12 @@
+{
+  "packages": [
+
+    {"name": "packet-1",
+      "version":">=1.12"},
+    {
+      "name": "packet-2"
+    },
+    {"name": "packet-3",
+      "version":">=1.12"}
+  ]
+}
